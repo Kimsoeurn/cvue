@@ -1,5 +1,5 @@
 <template>
-    <div class="container py-3 cv" id="page-content">
+    <div class="container py-3 cv">
         <h1 class="text-center text-uppercase fs-4 fw-bold mb-5">Curriculum Vitae</h1>
         <div class="row mb-3">
             <div class="col-9">

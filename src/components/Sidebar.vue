@@ -4,8 +4,8 @@
             <li>
                 <img src="./../assets/kimsoeurn.jpeg" alt="Sok Kimsoeurn" class="rounded-circle shadow mb-3" width="120px" height="120px">
             </li>
-            <li><a href="index.html" class="text-warning">My Resume</a></li>
-            <li><a href="cover_letter.html" class="text-light">Cover Letter</a></li>
+            <li><router-link to="/" class="route-link">My Resume</router-link></li>
+            <li><router-link to="/cover-letter" class="route-link text-light">Cover Letter</router-link></li>
             <li><a  href="https://drive.google.com/drive/folders/1HAv9q6n0iBDLNQoN0JA7xkzFIQLvbpKe?usp=sharing" target="_blank" class="text-light">Files & Documents</a></li>
             <li><a href="https://www.linkedin.com/in/kimsoeurn-sok/" target="_blank" class="text-light">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-linkedin mt-0"
@@ -18,7 +18,14 @@
 </template>
 <script>
 export default {
-  name: 'Sidebar'
+  name: 'Sidebar',
+  mounted() {
+     window.$(".route-link").click(function () {
+       window.$('.toggle-menu').toggleClass("active");
+        window.$('.menu-drawer').toggleClass('open');
+        window.$('.cv').removeClass('d-none');
+    });
+  }
 }
 </script>
 
