@@ -2,7 +2,7 @@
         <header class="d-print-none">
         <nav class="navbar navbar-expand-lg navbar-dark bg-success">
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.html">My Resume</a>
+                <router-link to="/" class="navbar-brand">My Resume</router-link>
                 <a class="toggle-menu d-sm-none d-block" href="#">
                     <i></i>
                     <i></i>
@@ -11,7 +11,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="cover_letter.html">Cover Letter</a>
+                            <router-link to="/cover-letter" class="nav-link">Cover Letter</router-link>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="https://drive.google.com/drive/folders/1HAv9q6n0iBDLNQoN0JA7xkzFIQLvbpKe?usp=sharing" target="_blank">Files & Documents</a>
