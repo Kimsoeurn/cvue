@@ -21,7 +21,7 @@
             </div>
         </nav>
         <div class="container mt-3">
-            <a href="#" onclick="window.print()" class="btn btn-outline-success"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer"
+            <a href="#" onclick="window.print()" class="btn btn-outline-success animate__animated animate__pulse animate__repeat-3 3"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-printer"
                 viewBox="0 0 16 16">
                 <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z" />
                 <path

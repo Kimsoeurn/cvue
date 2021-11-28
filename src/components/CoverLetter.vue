@@ -1,5 +1,5 @@
 <template>
-<div class="container cv">
+<div class="container cv animate__animated animate__slideInUp">
         <h3 class="text-center text-uppercase fs-4 fw-bold mt-3">Cover Letter</h3>
         <div class="row">
             <div class="col col-lg-6"></div>
