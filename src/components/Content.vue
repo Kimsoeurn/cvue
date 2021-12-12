@@ -57,7 +57,7 @@
                     <tr>
                         <td class="title">2014 - 2010</td>
                         <td class="sign">:</td>
-                        <td>Bachelor's degree in Information Technology at Build Bright University (Battambang Campus)</td>
+                        <td>Bachelor of Science in Information and Network Technology at Build Bright University (Battambang Campus)</td>
                     </tr>
                     <tr>
                         <td class="title">2010 - 2007</td>
