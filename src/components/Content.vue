@@ -11,7 +11,7 @@
                 <br> Email: sokkimsoeurn@gmail.com
             </div>
             <div class="col-3">
-                <img src="../assets/soeurn.jpeg" alt="Sok Kimsoeurn" class="float-end" width="120px" height="120px">
+                <img src="../assets/soeurn_v2.jpg" alt="Sok Kimsoeurn" class="float-end" width="120px" style="border: 1px solid #cccccc;">
             </div>
         </div>
         <div class="row">
@@ -75,14 +75,28 @@
                         <td class="title">Present</td>
                         <td class="sign">:</td>
                         <td>
-                            Freelancer Web Developer
+                            Freelance Web Developer
                             <ul>
-                                <li>Build Website and Web Application base on customer requirements</li>
+                                <li>
+                                  I build websites and web applications based on client requirements.
+                                </li>
                             </ul>
                             Recent Projects:
                             <ul>
+                                <li><a href="#">Hotel & Restaurant System (PMS)</a></li>
+                                <li><a href="#">Custom Wholesale System</a></li>
+                                <li><a href="#">Custom POS System</a></li>
+                                <li><a href="#">Mini Loan System</a></li>
                                 <li><a href="#">Student Attendance System</a></li>
-                                <li><a href="http://baccarat.devgeek.biz" target="_blank">Baccarat Dispaly Score</a></li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="title">May-2022 - January-2022</td>
+                        <td class="sign">:</td>
+                        <td>Web Developer at <strong>Payment Certification Agency (PCA)</strong>
+                            <ul>
+                                <li>Maintain HC Modules</li>
                             </ul>
                         </td>
                     </tr>
@@ -93,8 +107,8 @@
                             <ul>
                                 <li>Computer Repair and Networking</li>
                                 <li>Monitoring Network with Cacti</li>
-                                <li>Mornitoring Video Steaming</li>
-                                <li>Monitoring Baccarat Diplay Score (All Pits)</li>
+                                <li>Monitoring Video Steaming</li>
+                                <li>Monitoring Baccarat Display Score (All Pits)</li>
                             </ul>
                         </td>
                     </tr>
@@ -209,10 +223,23 @@
                                 <li>Wordpress (theme development)</li>
                                 <li>Object-oriented Programming concepts</li>
                                 <li>Laravel Framework</li>
-                                <li>Livewire</li>
+                                <li>Livewire and Alpine JS</li>
+                                <li>Filament v3 & v4</li>
                             </ul>
                         </td>
                     </tr>
+                    <tr>
+                      <td></td>
+                    </tr>
+                  <tr>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td></td>
+                  </tr>
                     <tr>
                         <td class="title">IDE and Tools</td>
                         <td class="sign">:</td>
@@ -220,7 +247,7 @@
                             <ul>
                                 <li>Git Version Control</li>
                                 <li>Google Chrome</li>
-                                <li>PhpStorm (prefered)</li>
+                                <li>PhpStorm (prefer)</li>
                                 <li>Visual Studio Code</li>
                                 <li>Sublime Text</li>
                             </ul>
@@ -231,9 +258,12 @@
                         <td class="sign">:</td>
                         <td>
                             <ul>
+                                <li>Laravel Forge</li>
+                                <li>Hetnzer</li>
                                 <li>Digital Ocean</li>
                                 <li>Linode</li>
-                                <li>Namecheap</li>
+                                <li>Cloudflare</li>
+                                <li>Hostinger</li>
                             </ul>
                         </td>
                     </tr>
@@ -266,32 +296,12 @@
                         </th>
                     </tr>
                     <tr>
-                        <td class="title">Devid Lee</td>
-                        <td class="sign">:</td>
-                        <td>
-                            <ul>
-                                <li>IT Manager at <strong>Piza Casino</strong></li>
-                                <li>Tel: 088 233 3505</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="title">Ith Dara</td>
+                        <td class="title">KHON PISETH</td>
                         <td class="sign">:</td>
                         <td>
                             <ul>
                                 <li>IT Manager at <strong>Casino Lucky 369</strong></li>
-                                <li>Tel: 096 7590 999</li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="title">Meach Sopanith</td>
-                        <td class="sign">:</td>
-                        <td>
-                            <ul>
-                                <li>Project Manager at <strong>The Coder Studio</strong></li>
-                                <li>Tel: 098 232 378</li>
+                                <li>Tel: 087 717 817</li>
                             </ul>
                         </td>
                     </tr>
